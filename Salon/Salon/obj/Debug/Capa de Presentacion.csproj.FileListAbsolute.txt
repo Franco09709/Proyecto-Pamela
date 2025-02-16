@@ -79,3 +79,26 @@ C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\b
 C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.pdb
 C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
 C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.AñadirCliente.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.Clientes.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ClienteFa.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ServicioFa.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.AñadirUsuario.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources

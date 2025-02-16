@@ -21,5 +21,20 @@ namespace Salon
         {
             this.Close();
         }
+
+        private void label13_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label12_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void AñadirUsuario_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

@@ -28,5 +28,10 @@ namespace Salon
             AñadirUsuario añadirUsuario = new AñadirUsuario();
             añadirUsuario.ShowDialog();
         }
+
+        private void Usuarios_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

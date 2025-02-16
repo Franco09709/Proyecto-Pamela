@@ -47,15 +47,15 @@
             this.label10 = new System.Windows.Forms.Label();
             this.drakeUITextBox7 = new DrakeUI.Framework.DrakeUITextBox();
             this.drakeUITextBox8 = new DrakeUI.Framework.DrakeUITextBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label11 = new System.Windows.Forms.Label();
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
-            this.Closeagregusuario = new System.Windows.Forms.PictureBox();
-            this.button1 = new System.Windows.Forms.Button();
             this.drakeUITextBox9 = new DrakeUI.Framework.DrakeUITextBox();
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
+            this.button1 = new System.Windows.Forms.Button();
+            this.Closeagregusuario = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.Closeagregusuario)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
@@ -323,14 +323,6 @@
             this.drakeUITextBox8.Style = DrakeUI.Framework.UIStyle.Custom;
             this.drakeUITextBox8.TabIndex = 22;
             // 
-            // pictureBox1
-            // 
-            this.pictureBox1.Location = new System.Drawing.Point(683, 77);
-            this.pictureBox1.Name = "pictureBox1";
-            this.pictureBox1.Size = new System.Drawing.Size(216, 190);
-            this.pictureBox1.TabIndex = 32;
-            this.pictureBox1.TabStop = false;
-            // 
             // label11
             // 
             this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
@@ -352,6 +344,7 @@
             this.label12.Size = new System.Drawing.Size(959, 43);
             this.label12.TabIndex = 221;
             this.label12.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.label12.Click += new System.EventHandler(this.label12_Click);
             // 
             // label13
             // 
@@ -364,35 +357,7 @@
             this.label13.Size = new System.Drawing.Size(98, 17);
             this.label13.TabIndex = 222;
             this.label13.Text = "Nuevo usuario";
-            // 
-            // Closeagregusuario
-            // 
-            this.Closeagregusuario.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.Closeagregusuario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
-            this.Closeagregusuario.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
-            this.Closeagregusuario.Location = new System.Drawing.Point(919, 9);
-            this.Closeagregusuario.Name = "Closeagregusuario";
-            this.Closeagregusuario.Size = new System.Drawing.Size(28, 24);
-            this.Closeagregusuario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.Closeagregusuario.TabIndex = 223;
-            this.Closeagregusuario.TabStop = false;
-            this.Closeagregusuario.Click += new System.EventHandler(this.Closeagregusuario_Click);
-            // 
-            // button1
-            // 
-            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Image = global::Salon.Properties.Resources.icons8_guardar_24;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(856, 464);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(91, 32);
-            this.button1.TabIndex = 224;
-            this.button1.Text = "      Guardar";
-            this.button1.UseVisualStyleBackColor = false;
+            this.label13.Click += new System.EventHandler(this.label13_Click);
             // 
             // drakeUITextBox9
             // 
@@ -410,6 +375,43 @@
             this.drakeUITextBox9.Size = new System.Drawing.Size(245, 29);
             this.drakeUITextBox9.Style = DrakeUI.Framework.UIStyle.Custom;
             this.drakeUITextBox9.TabIndex = 225;
+            // 
+            // button1
+            // 
+            this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
+            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.button1.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.button1.ForeColor = System.Drawing.Color.White;
+            this.button1.Image = global::Salon.Properties.Resources.icons8_guardar_24;
+            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.button1.Location = new System.Drawing.Point(856, 464);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(91, 32);
+            this.button1.TabIndex = 224;
+            this.button1.Text = "      Guardar";
+            this.button1.UseVisualStyleBackColor = false;
+            // 
+            // Closeagregusuario
+            // 
+            this.Closeagregusuario.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Closeagregusuario.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
+            this.Closeagregusuario.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
+            this.Closeagregusuario.Location = new System.Drawing.Point(919, 9);
+            this.Closeagregusuario.Name = "Closeagregusuario";
+            this.Closeagregusuario.Size = new System.Drawing.Size(28, 24);
+            this.Closeagregusuario.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.Closeagregusuario.TabIndex = 223;
+            this.Closeagregusuario.TabStop = false;
+            this.Closeagregusuario.Click += new System.EventHandler(this.Closeagregusuario_Click);
+            // 
+            // pictureBox1
+            // 
+            this.pictureBox1.Location = new System.Drawing.Point(683, 77);
+            this.pictureBox1.Name = "pictureBox1";
+            this.pictureBox1.Size = new System.Drawing.Size(216, 190);
+            this.pictureBox1.TabIndex = 32;
+            this.pictureBox1.TabStop = false;
             // 
             // AñadirUsuario
             // 
@@ -446,8 +448,9 @@
             this.Name = "AñadirUsuario";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AñadirEmpleados";
-            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
+            this.Load += new System.EventHandler(this.AñadirUsuario_Load);
             ((System.ComponentModel.ISupportInitialize)(this.Closeagregusuario)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
