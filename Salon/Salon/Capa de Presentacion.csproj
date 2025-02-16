@@ -79,11 +79,29 @@
     <Compile Include="Facturación\ServicioFa.cs.Designer.cs">
       <DependentUpon>ServicioFa.cs.cs</DependentUpon>
     </Compile>
+    <Compile Include="GastosFijos\AñadirGastoFijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\AñadirGastoFijo.Designer.cs">
+      <DependentUpon>AñadirGastoFijo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GastosFijos\GastoFijo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GastosFijos\GastoFijo.Designer.cs">
+      <DependentUpon>GastoFijo.cs</DependentUpon>
+    </Compile>
     <Compile Include="Login\Presentacion.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="Login\Presentacion.Designer.cs">
       <DependentUpon>Presentacion.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Rol\AñadirRol.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rol\AñadirRol.Designer.cs">
+      <DependentUpon>AñadirRol.cs</DependentUpon>
     </Compile>
     <Compile Include="Rol\Roles.cs">
       <SubType>Form</SubType>
@@ -144,8 +162,17 @@
     <EmbeddedResource Include="Facturación\ServicioFa.cs.resx">
       <DependentUpon>ServicioFa.cs.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\AñadirGastoFijo.resx">
+      <DependentUpon>AñadirGastoFijo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GastosFijos\GastoFijo.resx">
+      <DependentUpon>GastoFijo.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="Login\Presentacion.resx">
       <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rol\AñadirRol.resx">
+      <DependentUpon>AñadirRol.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Rol\Roles.resx">
       <DependentUpon>Roles.cs</DependentUpon>
@@ -281,6 +308,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\gastoFijos.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconollavenegra.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastoFijoNegro.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

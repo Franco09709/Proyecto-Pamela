@@ -73,9 +73,29 @@ namespace Salon.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap gastoFijoNegro {
+            get {
+                object obj = ResourceManager.GetObject("gastoFijoNegro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap gastoFijos {
             get {
                 object obj = ResourceManager.GetObject("gastoFijos", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap iconollavenegra {
+            get {
+                object obj = ResourceManager.GetObject("iconollavenegra", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

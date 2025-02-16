@@ -7,21 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Salon.GastosFijos;
 
 namespace Salon.Rol
 {
-    public partial class Roles: Form
+    public partial class AñadirRol: Form
     {
-        public Roles()
+        public AñadirRol()
         {
             InitializeComponent();
         }
 
-        private void btnAgregarRol_Click(object sender, EventArgs e)
+        private void CloseagregarRol_Click(object sender, EventArgs e)
         {
-            AñadirRol añadirRol = new AñadirRol();
-            añadirRol.ShowDialog();
+            this.Close();
         }
     }
 }

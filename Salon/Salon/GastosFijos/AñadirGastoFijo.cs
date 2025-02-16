@@ -7,21 +7,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-using Salon.GastosFijos;
 
-namespace Salon.Rol
+namespace Salon.GastosFijos
 {
-    public partial class Roles: Form
+    public partial class AñadirGastoFijo: Form
     {
-        public Roles()
+        public AñadirGastoFijo()
         {
             InitializeComponent();
         }
 
-        private void btnAgregarRol_Click(object sender, EventArgs e)
+        private void CloseagregarGastoFijo_Click(object sender, EventArgs e)
         {
-            AñadirRol añadirRol = new AñadirRol();
-            añadirRol.ShowDialog();
+            this.Close();
         }
     }
 }

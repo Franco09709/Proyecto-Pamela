@@ -3,28 +3,68 @@
   "WorkspaceRootPath": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\rol\\roles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\rol\\a\u00F1adirrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\rol\\a\u00F1adirrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\rol\\a\u00F1adirrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\rol\\a\u00F1adirrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\a\u00F1adirgastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\carlos alberto nin\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\gastosfijos\\gastofijo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\servicios\\a\u00F1adirservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\servicios\\a\u00F1adirservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\a\u00F1adirusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\servicios\\a\u00F1adirservicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,14 +77,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\login\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\login\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\facturaci\u00F3n\\clientefa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -69,10 +101,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\login\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\login\\presentacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\clientes\\clientes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -104,7 +132,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -120,7 +148,43 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 9,
+              "Title": "A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T19:11:01.488Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:23:46.345Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "A\u00F1adirRol.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\A\u00F1adirRol.cs",
+              "RelativeDocumentMoniker": "Salon\\Rol\\A\u00F1adirRol.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\A\u00F1adirRol.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Rol\\A\u00F1adirRol.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T21:59:04.764Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Roles.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\Roles.cs",
               "RelativeDocumentMoniker": "Salon\\Rol\\Roles.cs",
@@ -132,53 +196,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "A\u00F1adirServicio.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs",
-              "RelativeDocumentMoniker": "Salon\\Servicios\\A\u00F1adirServicio.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T17:25:59.646Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Usuarios.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "Title": "GastoFijo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\GastosFijos\\GastoFijo.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-10T20:46:27.507Z",
+              "WhenOpened": "2025-02-16T22:13:18.884Z",
               "EditorCaption": " [Dise\u00F1o]"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "A\u00F1adirUsuario.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Salon\\Usuarios\\A\u00F1adirUsuario.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T19:11:01.488Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "A\u00F1adirUsuario.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "RelativeToolTip": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAtwCQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-13T18:49:02.295Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
               "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
@@ -190,7 +220,135 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
+              "Title": "Roles.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\Roles.cs",
+              "RelativeDocumentMoniker": "Salon\\Rol\\Roles.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\Roles.cs",
+              "RelativeToolTip": "Salon\\Rol\\Roles.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAD4vxkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:55:54.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "A\u00F1adirUsuario.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "RelativeToolTip": "Salon\\Usuarios\\A\u00F1adirUsuario.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:57:53.632Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "A\u00F1adirRol.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\A\u00F1adirRol.cs",
+              "RelativeDocumentMoniker": "Salon\\Rol\\A\u00F1adirRol.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Rol\\A\u00F1adirRol.cs",
+              "RelativeToolTip": "Salon\\Rol\\A\u00F1adirRol.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:58:48.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "A\u00F1adirGastoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "RelativeToolTip": "Salon\\GastosFijos\\A\u00F1adirGastoFijo.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAWwBUAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:58:25.812Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GastoFijo.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeDocumentMoniker": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\GastosFijos\\GastoFijo.cs",
+              "RelativeToolTip": "Salon\\GastosFijos\\GastoFijo.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAtwBkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T22:46:12.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-10T20:46:27.507Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuarios.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAIA3wBwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T19:59:15.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
+              "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
+              "RelativeToolTip": "Salon\\Menu\\Menu.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAD4v1sAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T15:00:48.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Program.cs",
+              "RelativeDocumentMoniker": "Salon\\Program.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Program.cs",
+              "RelativeToolTip": "Salon\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:42:28.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "A\u00F1adirServicio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs",
+              "RelativeDocumentMoniker": "Salon\\Servicios\\A\u00F1adirServicio.cs",
+              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Servicios\\A\u00F1adirServicio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T17:25:59.646Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "A\u00F1adirServicio.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\A\u00F1adirServicio.cs",
               "RelativeDocumentMoniker": "Salon\\Servicios\\A\u00F1adirServicio.cs",
@@ -198,11 +356,12 @@
               "RelativeToolTip": "Salon\\Servicios\\A\u00F1adirServicio.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAWwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-16T17:28:56.974Z"
+              "WhenOpened": "2025-02-16T17:28:56.974Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 17,
               "Title": "Servicio.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Servicios\\Servicio.cs",
               "RelativeDocumentMoniker": "Salon\\Servicios\\Servicio.cs",
@@ -213,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 18,
               "Title": "Presentacion.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Login\\Presentacion.cs",
               "RelativeDocumentMoniker": "Salon\\Login\\Presentacion.cs",
@@ -224,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 19,
               "Title": "ClienteFa.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Facturaci\u00F3n\\ClienteFa.cs",
               "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\ClienteFa.cs",
@@ -235,20 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Usuarios.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
-              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
-              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAIAywCEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T19:59:15.17Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 23,
               "Title": "Facturaci\u00F3n.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
               "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
@@ -260,7 +406,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 21,
               "Title": "Facturaci\u00F3n.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
               "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\Facturaci\u00F3n.cs",
@@ -271,19 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Menu.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
-              "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
-              "RelativeToolTip": "Salon\\Menu\\Menu.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAtwDUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-12T15:00:48.814Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 22,
               "Title": "A\u00F1adirFactura.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
               "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
@@ -295,7 +429,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 20,
               "Title": "A\u00F1adirFactura.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
               "RelativeDocumentMoniker": "Salon\\Facturaci\u00F3n\\A\u00F1adirFactura.cs",
@@ -306,7 +440,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 24,
               "Title": "Presentacion.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Login\\Presentacion.cs",
               "RelativeDocumentMoniker": "Salon\\Login\\Presentacion.cs",
@@ -318,19 +452,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Program.cs",
-              "RelativeDocumentMoniker": "Salon\\Program.cs",
-              "ToolTip": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Program.cs",
-              "RelativeToolTip": "Salon\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAkAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-11T13:42:28.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 28,
               "Title": "icons8-multiply-23.png - PNG [23x23, 32 bits, PNG]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Resources\\icons8-multiply-23.png",
               "RelativeDocumentMoniker": "Salon\\Resources\\icons8-multiply-23.png",
@@ -341,7 +463,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 26,
               "Title": "A\u00F1adirCliente.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs",
               "RelativeDocumentMoniker": "Salon\\Clientes\\A\u00F1adirCliente.cs",
@@ -352,7 +474,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 25,
               "Title": "Clientes.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Clientes\\Clientes.cs",
               "RelativeDocumentMoniker": "Salon\\Clientes\\Clientes.cs",
@@ -363,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 27,
               "Title": "A\u00F1adirCliente.cs",
               "DocumentMoniker": "C:\\Users\\Carlos Alberto Nin\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Clientes\\A\u00F1adirCliente.cs",
               "RelativeDocumentMoniker": "Salon\\Clientes\\A\u00F1adirCliente.cs",
@@ -375,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 29,
               "Title": "Servicios.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Servicios.cs",
@@ -386,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 30,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\gfranco\\source\\repos\\Salon\\Salon\\Menu.cs",

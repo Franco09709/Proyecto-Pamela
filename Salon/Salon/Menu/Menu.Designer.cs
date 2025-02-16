@@ -31,15 +31,15 @@
             this.label1 = new System.Windows.Forms.Label();
             this.Contenedormenu = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
+            this.btnGastosFijos = new System.Windows.Forms.Button();
             this.btnServicios = new System.Windows.Forms.Button();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.Closemenu = new System.Windows.Forms.PictureBox();
             this.button5 = new System.Windows.Forms.Button();
             this.btnClientes = new System.Windows.Forms.Button();
             this.btnfacturacion = new System.Windows.Forms.Button();
-            this.button2 = new System.Windows.Forms.Button();
+            this.btnRol = new System.Windows.Forms.Button();
             this.btnEmpleado = new System.Windows.Forms.Button();
-            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).BeginInit();
             this.SuspendLayout();
@@ -71,6 +71,23 @@
             this.label4.Size = new System.Drawing.Size(49, 17);
             this.label4.TabIndex = 145;
             this.label4.Text = "Admin";
+            // 
+            // btnGastosFijos
+            // 
+            this.btnGastosFijos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
+            this.btnGastosFijos.FlatAppearance.BorderSize = 0;
+            this.btnGastosFijos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGastosFijos.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGastosFijos.ForeColor = System.Drawing.Color.White;
+            this.btnGastosFijos.Image = global::Salon.Properties.Resources.gastoFijos;
+            this.btnGastosFijos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnGastosFijos.Location = new System.Drawing.Point(1, 370);
+            this.btnGastosFijos.Name = "btnGastosFijos";
+            this.btnGastosFijos.Size = new System.Drawing.Size(176, 37);
+            this.btnGastosFijos.TabIndex = 148;
+            this.btnGastosFijos.Text = "Gastos Fijos";
+            this.btnGastosFijos.UseVisualStyleBackColor = false;
+            this.btnGastosFijos.Click += new System.EventHandler(this.btnGastosFijos_Click);
             // 
             // btnServicios
             // 
@@ -163,21 +180,22 @@
             this.btnfacturacion.UseVisualStyleBackColor = false;
             this.btnfacturacion.Click += new System.EventHandler(this.btnfacturacion_Click);
             // 
-            // button2
+            // btnRol
             // 
-            this.button2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
-            this.button2.FlatAppearance.BorderSize = 0;
-            this.button2.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button2.ForeColor = System.Drawing.Color.White;
-            this.button2.Image = global::Salon.Properties.Resources.icons8_llave_22;
-            this.button2.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button2.Location = new System.Drawing.Point(1, 325);
-            this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(176, 37);
-            this.button2.TabIndex = 7;
-            this.button2.Text = "Rol";
-            this.button2.UseVisualStyleBackColor = false;
+            this.btnRol.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
+            this.btnRol.FlatAppearance.BorderSize = 0;
+            this.btnRol.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnRol.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnRol.ForeColor = System.Drawing.Color.White;
+            this.btnRol.Image = global::Salon.Properties.Resources.icons8_llave_22;
+            this.btnRol.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnRol.Location = new System.Drawing.Point(1, 325);
+            this.btnRol.Name = "btnRol";
+            this.btnRol.Size = new System.Drawing.Size(176, 37);
+            this.btnRol.TabIndex = 7;
+            this.btnRol.Text = "Rol";
+            this.btnRol.UseVisualStyleBackColor = false;
+            this.btnRol.Click += new System.EventHandler(this.btnRol_Click);
             // 
             // btnEmpleado
             // 
@@ -196,29 +214,13 @@
             this.btnEmpleado.UseVisualStyleBackColor = false;
             this.btnEmpleado.Click += new System.EventHandler(this.btnEmpleado_Click);
             // 
-            // button1
-            // 
-            this.button1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
-            this.button1.FlatAppearance.BorderSize = 0;
-            this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.button1.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.button1.ForeColor = System.Drawing.Color.White;
-            this.button1.Image = global::Salon.Properties.Resources.gastoFijos;
-            this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(1, 370);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(176, 37);
-            this.button1.TabIndex = 148;
-            this.button1.Text = "Gastos Fijos";
-            this.button1.UseVisualStyleBackColor = false;
-            // 
             // Menu
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.Control;
             this.ClientSize = new System.Drawing.Size(1222, 710);
-            this.Controls.Add(this.button1);
+            this.Controls.Add(this.btnGastosFijos);
             this.Controls.Add(this.btnServicios);
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.label4);
@@ -227,7 +229,7 @@
             this.Controls.Add(this.btnClientes);
             this.Controls.Add(this.Contenedormenu);
             this.Controls.Add(this.btnfacturacion);
-            this.Controls.Add(this.button2);
+            this.Controls.Add(this.btnRol);
             this.Controls.Add(this.btnEmpleado);
             this.Controls.Add(this.label1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
@@ -246,7 +248,7 @@
 
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Button btnEmpleado;
-        private System.Windows.Forms.Button button2;
+        private System.Windows.Forms.Button btnRol;
         private System.Windows.Forms.Button btnfacturacion;
         private System.Windows.Forms.Panel Contenedormenu;
         private System.Windows.Forms.Button btnClientes;
@@ -255,7 +257,7 @@
         private System.Windows.Forms.Label label4;
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Button btnServicios;
-        private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.Button btnGastosFijos;
     }
 }
 

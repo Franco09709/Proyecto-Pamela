@@ -102,3 +102,7 @@ C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
