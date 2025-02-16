@@ -58,3 +58,24 @@ C:\Users\gabri\OneDrive\Escritorio\SALON 2.0\Salon\Salon\obj\Debug\Capa de Prese
 C:\Users\gabri\OneDrive\Escritorio\SALON 2.0\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
 C:\Users\gabri\OneDrive\Escritorio\SALON 2.0\Salon\Salon\obj\Debug\Salon.exe
 C:\Users\gabri\OneDrive\Escritorio\SALON 2.0\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.AñadirCliente.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.Clientes.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ClienteFa.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ServicioFa.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.AñadirUsuario.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\gabri\OneDrive\Escritorio\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date

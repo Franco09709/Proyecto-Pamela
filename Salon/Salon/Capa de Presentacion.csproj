@@ -85,12 +85,6 @@
     <Compile Include="Login\Presentacion.Designer.cs">
       <DependentUpon>Presentacion.cs</DependentUpon>
     </Compile>
-    <Compile Include="Servicios\AñadirServicio.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Servicios\AñadirServicio.Designer.cs">
-      <DependentUpon>AñadirServicio.cs</DependentUpon>
-    </Compile>
     <Compile Include="Usuarios\AñadirUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -117,12 +111,6 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Servicios\Servicios.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Servicios\Servicios.Designer.cs">
-      <DependentUpon>Servicios.cs</DependentUpon>
-    </Compile>
     <EmbeddedResource Include="Clientes\AñadirCliente.resx">
       <DependentUpon>AñadirCliente.cs</DependentUpon>
     </EmbeddedResource>
@@ -140,9 +128,6 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login\Presentacion.resx">
       <DependentUpon>Presentacion.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Servicios\AñadirServicio.resx">
-      <DependentUpon>AñadirServicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Usuarios\AñadirUsuario.resx">
       <DependentUpon>AñadirUsuario.cs</DependentUpon>
@@ -166,9 +151,6 @@
       <DependentUpon>Resources.resx</DependentUpon>
       <DesignTime>True</DesignTime>
     </Compile>
-    <EmbeddedResource Include="Servicios\Servicios.resx">
-      <DependentUpon>Servicios.cs</DependentUpon>
-    </EmbeddedResource>
     <None Include="packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

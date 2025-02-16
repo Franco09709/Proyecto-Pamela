@@ -59,8 +59,8 @@ namespace Salon
 
         private void btnServicios_Click(object sender, EventArgs e)
         {
-            Servicios servicios = new Servicios();
-            AbrirFormulario(servicios);
+            //Servicios servicios = new Servicios();
+            //AbrirFormulario(servicios);
         }
 
         private void btnClientes_Click(object sender, EventArgs e)
