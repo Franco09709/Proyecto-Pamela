@@ -85,6 +85,18 @@
     <Compile Include="Login\Presentacion.Designer.cs">
       <DependentUpon>Presentacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Servicios\AñadirServicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\AñadirServicio.Designer.cs">
+      <DependentUpon>AñadirServicio.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Servicios\Servicio.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Servicios\Servicio.Designer.cs">
+      <DependentUpon>Servicio.cs</DependentUpon>
+    </Compile>
     <Compile Include="Usuarios\AñadirUsuario.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -128,6 +140,12 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login\Presentacion.resx">
       <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\AñadirServicio.resx">
+      <DependentUpon>AñadirServicio.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Servicios\Servicio.resx">
+      <DependentUpon>Servicio.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Usuarios\AñadirUsuario.resx">
       <DependentUpon>AñadirUsuario.cs</DependentUpon>
@@ -252,6 +270,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-factura-19.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastoFijos.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
