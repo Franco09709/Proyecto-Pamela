@@ -85,6 +85,12 @@
     <Compile Include="Login\Presentacion.Designer.cs">
       <DependentUpon>Presentacion.cs</DependentUpon>
     </Compile>
+    <Compile Include="Rol\Roles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Rol\Roles.Designer.cs">
+      <DependentUpon>Roles.cs</DependentUpon>
+    </Compile>
     <Compile Include="Servicios\AñadirServicio.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -140,6 +146,9 @@
     </EmbeddedResource>
     <EmbeddedResource Include="Login\Presentacion.resx">
       <DependentUpon>Presentacion.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Rol\Roles.resx">
+      <DependentUpon>Roles.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Servicios\AñadirServicio.resx">
       <DependentUpon>AñadirServicio.cs</DependentUpon>
@@ -224,7 +233,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Dashboard\" />
-    <Folder Include="Rol\" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\icons8-multiplicar-23.png" />
