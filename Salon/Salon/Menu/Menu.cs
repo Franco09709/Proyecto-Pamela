@@ -74,5 +74,18 @@ namespace Salon
             Facturación.Facturación facturación = new Facturación.Facturación();
             AbrirFormulario(facturación);
         }
+
+        private void btnRol_Click(object sender, EventArgs e)
+        {
+            Rol.Roles Rol = new Rol.Roles();
+
+            AbrirFormulario(Rol);
+        }
+
+        private void btnGastosFijos_Click(object sender, EventArgs e)
+        {
+            GastosFijos.GastoFijo GastoFijo = new GastosFijos.GastoFijo();
+            AbrirFormulario(GastoFijo);
+        }
     }
 }
