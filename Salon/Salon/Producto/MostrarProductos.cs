@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Salon.Facturación
 {
-    public partial class ClienteFa : Form
+    public partial class MostrarProductos : Form
     {
-        public ClienteFa()
+        public MostrarProductos()
         {
             InitializeComponent();
         }

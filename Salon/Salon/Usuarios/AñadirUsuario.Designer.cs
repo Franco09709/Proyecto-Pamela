@@ -54,6 +54,10 @@
             this.button1 = new System.Windows.Forms.Button();
             this.Closeagregusuario = new System.Windows.Forms.PictureBox();
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.label14 = new System.Windows.Forms.Label();
+            this.drakeUITextBox10 = new DrakeUI.Framework.DrakeUITextBox();
+            this.label15 = new System.Windows.Forms.Label();
+            this.drakeUITextBox11 = new DrakeUI.Framework.DrakeUITextBox();
             ((System.ComponentModel.ISupportInitialize)(this.Closeagregusuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
             this.SuspendLayout();
@@ -328,7 +332,7 @@
             this.label11.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.label11.BackColor = System.Drawing.Color.DarkGray;
-            this.label11.Location = new System.Drawing.Point(2, 451);
+            this.label11.Location = new System.Drawing.Point(2, 494);
             this.label11.Name = "label11";
             this.label11.Size = new System.Drawing.Size(955, 1);
             this.label11.TabIndex = 220;
@@ -385,7 +389,7 @@
             this.button1.ForeColor = System.Drawing.Color.White;
             this.button1.Image = global::Salon.Properties.Resources.icons8_guardar_24;
             this.button1.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.button1.Location = new System.Drawing.Point(856, 464);
+            this.button1.Location = new System.Drawing.Point(856, 508);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(91, 32);
             this.button1.TabIndex = 224;
@@ -413,11 +417,73 @@
             this.pictureBox1.TabIndex = 32;
             this.pictureBox1.TabStop = false;
             // 
+            // label14
+            // 
+            this.label14.AutoSize = true;
+            this.label14.BackColor = System.Drawing.SystemColors.Control;
+            this.label14.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label14.ForeColor = System.Drawing.Color.Black;
+            this.label14.Location = new System.Drawing.Point(39, 381);
+            this.label14.Name = "label14";
+            this.label14.Size = new System.Drawing.Size(55, 17);
+            this.label14.TabIndex = 226;
+            this.label14.Text = "Usuario";
+            // 
+            // drakeUITextBox10
+            // 
+            this.drakeUITextBox10.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.drakeUITextBox10.FillColor = System.Drawing.Color.White;
+            this.drakeUITextBox10.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.drakeUITextBox10.Location = new System.Drawing.Point(40, 402);
+            this.drakeUITextBox10.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUITextBox10.Maximum = 2147483647D;
+            this.drakeUITextBox10.Minimum = -2147483648D;
+            this.drakeUITextBox10.Name = "drakeUITextBox10";
+            this.drakeUITextBox10.Padding = new System.Windows.Forms.Padding(5);
+            this.drakeUITextBox10.RectColor = System.Drawing.Color.Silver;
+            this.drakeUITextBox10.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
+            this.drakeUITextBox10.Size = new System.Drawing.Size(245, 29);
+            this.drakeUITextBox10.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUITextBox10.TabIndex = 227;
+            // 
+            // label15
+            // 
+            this.label15.AutoSize = true;
+            this.label15.BackColor = System.Drawing.SystemColors.Control;
+            this.label15.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label15.ForeColor = System.Drawing.Color.Black;
+            this.label15.Location = new System.Drawing.Point(352, 381);
+            this.label15.Name = "label15";
+            this.label15.Size = new System.Drawing.Size(41, 17);
+            this.label15.TabIndex = 228;
+            this.label15.Text = "Clave";
+            // 
+            // drakeUITextBox11
+            // 
+            this.drakeUITextBox11.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.drakeUITextBox11.FillColor = System.Drawing.Color.White;
+            this.drakeUITextBox11.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.drakeUITextBox11.Location = new System.Drawing.Point(353, 401);
+            this.drakeUITextBox11.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUITextBox11.Maximum = 2147483647D;
+            this.drakeUITextBox11.Minimum = -2147483648D;
+            this.drakeUITextBox11.Name = "drakeUITextBox11";
+            this.drakeUITextBox11.Padding = new System.Windows.Forms.Padding(5);
+            this.drakeUITextBox11.RectColor = System.Drawing.Color.Silver;
+            this.drakeUITextBox11.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
+            this.drakeUITextBox11.Size = new System.Drawing.Size(245, 29);
+            this.drakeUITextBox11.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUITextBox11.TabIndex = 229;
+            // 
             // AñadirUsuario
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(959, 508);
+            this.ClientSize = new System.Drawing.Size(959, 561);
+            this.Controls.Add(this.drakeUITextBox11);
+            this.Controls.Add(this.label15);
+            this.Controls.Add(this.drakeUITextBox10);
+            this.Controls.Add(this.label14);
             this.Controls.Add(this.drakeUITextBox9);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.Closeagregusuario);
@@ -484,5 +550,9 @@
         private System.Windows.Forms.PictureBox Closeagregusuario;
         private System.Windows.Forms.Button button1;
         private DrakeUI.Framework.DrakeUITextBox drakeUITextBox9;
+        private System.Windows.Forms.Label label14;
+        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox10;
+        private System.Windows.Forms.Label label15;
+        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox11;
     }
 }

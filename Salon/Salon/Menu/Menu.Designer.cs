@@ -110,7 +110,7 @@
             // 
             this.pictureBox1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
             this.pictureBox1.Image = global::Salon.Properties.Resources.icons8_usuario_masculino_en_círculo_26;
-            this.pictureBox1.Location = new System.Drawing.Point(23, 44);
+            this.pictureBox1.Location = new System.Drawing.Point(9, 44);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(26, 27);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -210,7 +210,7 @@
             this.btnEmpleado.Name = "btnEmpleado";
             this.btnEmpleado.Size = new System.Drawing.Size(176, 37);
             this.btnEmpleado.TabIndex = 6;
-            this.btnEmpleado.Text = "Usuarios";
+            this.btnEmpleado.Text = "Empleados";
             this.btnEmpleado.UseVisualStyleBackColor = false;
             this.btnEmpleado.Click += new System.EventHandler(this.btnEmpleado_Click);
             // 
