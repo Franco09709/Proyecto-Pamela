@@ -289,9 +289,9 @@
             this.label2.ForeColor = System.Drawing.Color.Black;
             this.label2.Location = new System.Drawing.Point(37, 6);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(70, 20);
+            this.label2.Size = new System.Drawing.Size(85, 20);
             this.label2.TabIndex = 217;
-            this.label2.Text = "Usuarios";
+            this.label2.Text = "Empleados";
             // 
             // drakeUITextBox1
             // 

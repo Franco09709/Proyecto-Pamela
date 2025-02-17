@@ -67,17 +67,17 @@
     <Compile Include="Facturación\AñadirFactura.Designer.cs">
       <DependentUpon>AñadirFactura.cs</DependentUpon>
     </Compile>
-    <Compile Include="Facturación\ClienteFa.cs">
+    <Compile Include="Producto\MostrarProductos.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Facturación\ClienteFa.Designer.cs">
-      <DependentUpon>ClienteFa.cs</DependentUpon>
+    <Compile Include="Producto\MostrarProductos.Designer.cs">
+      <DependentUpon>MostrarProductos.cs</DependentUpon>
     </Compile>
-    <Compile Include="Facturación\ServicioFa.cs.cs">
+    <Compile Include="Servicios\MostrarServicios.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Facturación\ServicioFa.cs.Designer.cs">
-      <DependentUpon>ServicioFa.cs.cs</DependentUpon>
+    <Compile Include="Servicios\MostrarServicios.Designer.cs">
+      <DependentUpon>MostrarServicios.cs</DependentUpon>
     </Compile>
     <Compile Include="GastosFijos\AñadirGastoFijo.cs">
       <SubType>Form</SubType>
@@ -156,11 +156,11 @@
     <EmbeddedResource Include="Facturación\AñadirFactura.resx">
       <DependentUpon>AñadirFactura.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Facturación\ClienteFa.resx">
-      <DependentUpon>ClienteFa.cs</DependentUpon>
+    <EmbeddedResource Include="Producto\MostrarProductos.resx">
+      <DependentUpon>MostrarProductos.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Facturación\ServicioFa.cs.resx">
-      <DependentUpon>ServicioFa.cs.cs</DependentUpon>
+    <EmbeddedResource Include="Servicios\MostrarServicios.resx">
+      <DependentUpon>MostrarServicios.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="GastosFijos\AñadirGastoFijo.resx">
       <DependentUpon>AñadirGastoFijo.cs</DependentUpon>

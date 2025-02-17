@@ -87,7 +87,6 @@ C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.AñadirCliente.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.Clientes.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
-C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ClienteFa.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ServicioFa.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.AñadirUsuario.resources
@@ -106,3 +105,4 @@ C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
 C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\Carlos Alberto Nin\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.MostrarProductos.resources
