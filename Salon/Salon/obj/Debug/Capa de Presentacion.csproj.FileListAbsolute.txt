@@ -160,3 +160,30 @@ C:\Users\gfranco\Desktop\Proyecto pamela2\Proyecto-Pamela\Salon\Salon\obj\Debug\
 C:\Users\gfranco\Desktop\Proyecto pamela2\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
 C:\Users\gfranco\Desktop\Proyecto pamela2\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.exe
 C:\Users\gfranco\Desktop\Proyecto pamela2\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe.config
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.exe
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\Salon.pdb
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\bin\Debug\DrakeUI.Framework.dll
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.AssemblyReference.cache
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.AñadirCliente.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Clientes.Clientes.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.AñadirFactura.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.MostrarProductos.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.ServicioFa.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.AñadirGastoFijo.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.GastosFijos.GastoFijo.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Login.Presentacion.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.AñadirRol.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Rol.Roles.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.AñadirServicio.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Servicios.Servicio.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.AñadirUsuario.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Usuarios.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Facturación.Facturación.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Menu.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.Properties.Resources.resources
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.GenerateResource.cache
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Capa de .AE42D9F8.Up2Date
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.exe
+C:\Users\Loteka\Desktop\Proyecto Pamela\Proyecto-Pamela\Salon\Salon\obj\Debug\Salon.pdb
