@@ -11,9 +11,9 @@ using System.Windows.Forms;
 
 namespace Salon
 {
-    public partial class Usuarios : Form
+    public partial class Empleado : Form
     {
-        public Usuarios()
+        public Empleado()
         {
             InitializeComponent();
         }
@@ -25,7 +25,7 @@ namespace Salon
 
         private void btnAgregaremp_Click(object sender, EventArgs e)
         {
-            AñadirUsuario añadirUsuario = new AñadirUsuario();
+            AñadirEmpleado añadirUsuario = new AñadirEmpleado();
             añadirUsuario.ShowDialog();
         }
 

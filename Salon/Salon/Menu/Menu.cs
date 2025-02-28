@@ -49,7 +49,7 @@ namespace Salon
 
         private void btnEmpleado_Click(object sender, EventArgs e)
         {
-            Usuarios empleados = new Usuarios();
+            Empleado empleados = new Empleado();
             AbrirFormulario(empleados);
         }
 

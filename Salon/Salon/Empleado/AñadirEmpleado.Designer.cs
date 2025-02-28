@@ -1,6 +1,6 @@
 ﻿namespace Salon
 {
-    partial class AñadirUsuario
+    partial class AñadirEmpleado
     {
         /// <summary>
         /// Required designer variable.

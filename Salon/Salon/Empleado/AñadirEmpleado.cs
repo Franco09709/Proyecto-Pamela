@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Salon
 {
-    public partial class AñadirUsuario : Form
+    public partial class AñadirEmpleado : Form
     {
-        public AñadirUsuario()
+        public AñadirEmpleado()
         {
             InitializeComponent();
         }
