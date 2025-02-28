@@ -121,17 +121,17 @@
     <Compile Include="Servicios\Servicio.Designer.cs">
       <DependentUpon>Servicio.cs</DependentUpon>
     </Compile>
-    <Compile Include="Usuarios\AñadirUsuario.cs">
+    <Compile Include="Empleado\AñadirEmpleado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Usuarios\AñadirUsuario.Designer.cs">
-      <DependentUpon>AñadirUsuario.cs</DependentUpon>
+    <Compile Include="Empleado\AñadirEmpleado.Designer.cs">
+      <DependentUpon>AñadirEmpleado.cs</DependentUpon>
     </Compile>
-    <Compile Include="Usuarios\Usuarios.cs">
+    <Compile Include="Empleado\Empleado.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Usuarios\Usuarios.Designer.cs">
-      <DependentUpon>Usuarios.cs</DependentUpon>
+    <Compile Include="Empleado\Empleado.Designer.cs">
+      <DependentUpon>Empleado.cs</DependentUpon>
     </Compile>
     <Compile Include="Facturación\Facturación.cs">
       <SubType>Form</SubType>
@@ -183,11 +183,11 @@
     <EmbeddedResource Include="Servicios\Servicio.resx">
       <DependentUpon>Servicio.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Usuarios\AñadirUsuario.resx">
-      <DependentUpon>AñadirUsuario.cs</DependentUpon>
+    <EmbeddedResource Include="Empleado\AñadirEmpleado.resx">
+      <DependentUpon>AñadirEmpleado.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Usuarios\Usuarios.resx">
-      <DependentUpon>Usuarios.cs</DependentUpon>
+    <EmbeddedResource Include="Empleado\Empleado.resx">
+      <DependentUpon>Empleado.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Facturación\Facturación.resx">
       <DependentUpon>Facturación.cs</DependentUpon>

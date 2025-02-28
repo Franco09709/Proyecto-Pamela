@@ -3,7 +3,11 @@
   "WorkspaceRootPath": "C:\\Users\\Loteka\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|C:\\Users\\Loteka\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\loteka\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\usuarios\\usuarios.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|c:\\users\\loteka\\desktop\\proyecto pamela\\proyecto-pamela\\salon\\salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{8EE54284-FEDB-4EC1-A7E4-6D45FF3C64C3}|Salon\\Capa de Presentacion.csproj|solutionrelative:salon\\menu\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
@@ -31,6 +35,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Usuarios.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs",
+              "RelativeDocumentMoniker": "Salon\\Usuarios\\Usuarios.cs",
+              "ToolTip": "C:\\Users\\Loteka\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Salon\\Usuarios\\Usuarios.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T15:12:23.538Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Menu.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Loteka\\Desktop\\Proyecto Pamela\\Proyecto-Pamela\\Salon\\Salon\\Menu\\Menu.cs",
               "RelativeDocumentMoniker": "Salon\\Menu\\Menu.cs",
