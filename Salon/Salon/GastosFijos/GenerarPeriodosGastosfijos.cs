@@ -8,19 +8,18 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Salon.Clientes
+namespace Salon.GastosFijos
 {
-    public partial class Clientes : Form
+    public partial class GenerarPeriodosGastosfijos : Form
     {
-        public Clientes()
+        public GenerarPeriodosGastosfijos()
         {
             InitializeComponent();
         }
 
-        private void btnAgregclient_Click(object sender, EventArgs e)
+        private void CloseGenerarGastoFijo_Click(object sender, EventArgs e)
         {
-            AñadirCliente añadirCliente =new AñadirCliente();
-            añadirCliente.ShowDialog();
+            this.Close();
         }
     }
 }

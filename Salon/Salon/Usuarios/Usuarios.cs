@@ -1,5 +1,4 @@
-﻿using Salon.Clientes;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -9,7 +8,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Salon
+namespace Salon.Usuarios
 {
     public partial class Usuarios : Form
     {
@@ -18,20 +17,10 @@ namespace Salon
             InitializeComponent();
         }
 
-        private void Closemenupru_Click(object sender, EventArgs e)
-        {
-            
-        }
-
-        private void btnAgregaremp_Click(object sender, EventArgs e)
+        private void btnAgregarUsuario_Click(object sender, EventArgs e)
         {
             AñadirUsuario añadirUsuario = new AñadirUsuario();
             añadirUsuario.ShowDialog();
-        }
-
-        private void Usuarios_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }

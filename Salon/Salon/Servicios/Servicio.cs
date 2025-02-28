@@ -22,5 +22,10 @@ namespace Salon.Servicios
             AñadirServicio añadirServicio = new AñadirServicio();
             añadirServicio.ShowDialog();
         }
+
+        private void Servicio_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

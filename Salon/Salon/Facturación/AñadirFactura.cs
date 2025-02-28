@@ -37,14 +37,23 @@ namespace Salon.Facturación
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
-        {
-
-        }
-
+    
         private void Closeagregfactu_Click(object sender, EventArgs e)
         {
             this.Close();
+        }
+
+        private void btnServicio_Click(object sender, EventArgs e)
+        {
+            MostrarServicios mostrarServicios = new MostrarServicios();
+            mostrarServicios.ShowDialog();
+        }
+
+   
+        private void btnProducto_Click(object sender, EventArgs e)
+        {
+            MostrarProductos mostrarProductos = new MostrarProductos(); 
+            mostrarProductos.ShowDialog();
         }
     }
 }

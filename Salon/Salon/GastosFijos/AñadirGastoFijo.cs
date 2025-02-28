@@ -26,5 +26,10 @@ namespace Salon.GastosFijos
         {
 
         }
+
+        private void AñadirGastoFijo_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

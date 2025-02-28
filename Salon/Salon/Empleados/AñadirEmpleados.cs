@@ -8,16 +8,16 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Salon.Clientes
+namespace Salon.Empleados
 {
-    public partial class AñadirCliente : Form
+    public partial class AñadirEmpleados : Form
     {
-        public AñadirCliente()
+        public AñadirEmpleados()
         {
             InitializeComponent();
         }
 
-        private void Closeagregclient_Click(object sender, EventArgs e)
+        private void Closeagregempleado_Click(object sender, EventArgs e)
         {
             this.Close();
         }

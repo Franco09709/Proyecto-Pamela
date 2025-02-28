@@ -28,13 +28,12 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle91 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle92 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle93 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle94 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle95 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle10 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label2 = new System.Windows.Forms.Label();
-            this.drakeUITextBox1 = new DrakeUI.Framework.DrakeUITextBox();
             this.DgvDatosEmpleados = new DrakeUI.Framework.DrakeUIDataGridView();
             this.Edit = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ID_Empleado = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -42,18 +41,17 @@
             this.Descripcion = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Monto = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Fecha = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.btnAgregarGastosFijos = new System.Windows.Forms.Button();
-            this.Closemenu = new System.Windows.Forms.PictureBox();
-            this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.label1 = new System.Windows.Forms.Label();
             this.drakeUIGradientPanel1 = new DrakeUI.Framework.DrakeUIGradientPanel();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.panel1 = new System.Windows.Forms.Panel();
+            this.drakeUITextBox2 = new DrakeUI.Framework.DrakeUITextBox();
+            this.btnVisualizar = new System.Windows.Forms.Button();
+            this.Closemenu = new System.Windows.Forms.PictureBox();
+            this.pictureBox1 = new System.Windows.Forms.PictureBox();
+            this.btnGenerarPeriodos = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.DgvDatosEmpleados)).BeginInit();
+            this.drakeUIGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).BeginInit();
-            this.drakeUIGradientPanel1.SuspendLayout();
-            this.panel1.SuspendLayout();
             this.SuspendLayout();
             // 
             // label2
@@ -62,30 +60,11 @@
             this.label2.BackColor = System.Drawing.SystemColors.Control;
             this.label2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label2.ForeColor = System.Drawing.Color.Black;
-            this.label2.Location = new System.Drawing.Point(37, 4);
+            this.label2.Location = new System.Drawing.Point(37, 3);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(93, 20);
             this.label2.TabIndex = 224;
             this.label2.Text = "Gastos Fijos";
-            // 
-            // drakeUITextBox1
-            // 
-            this.drakeUITextBox1.BackColor = System.Drawing.Color.Transparent;
-            this.drakeUITextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.drakeUITextBox1.FillColor = System.Drawing.Color.White;
-            this.drakeUITextBox1.FillDisableColor = System.Drawing.Color.Transparent;
-            this.drakeUITextBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.drakeUITextBox1.Location = new System.Drawing.Point(37, 2);
-            this.drakeUITextBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.drakeUITextBox1.Maximum = 2147483647D;
-            this.drakeUITextBox1.Minimum = -2147483648D;
-            this.drakeUITextBox1.Name = "drakeUITextBox1";
-            this.drakeUITextBox1.Padding = new System.Windows.Forms.Padding(5);
-            this.drakeUITextBox1.RectColor = System.Drawing.Color.Transparent;
-            this.drakeUITextBox1.RectDisableColor = System.Drawing.Color.Transparent;
-            this.drakeUITextBox1.Size = new System.Drawing.Size(246, 29);
-            this.drakeUITextBox1.Style = DrakeUI.Framework.UIStyle.Custom;
-            this.drakeUITextBox1.TabIndex = 226;
             // 
             // DgvDatosEmpleados
             // 
@@ -93,8 +72,8 @@
             this.DgvDatosEmpleados.AllowUserToDeleteRows = false;
             this.DgvDatosEmpleados.AllowUserToResizeColumns = false;
             this.DgvDatosEmpleados.AllowUserToResizeRows = false;
-            dataGridViewCellStyle91.BackColor = System.Drawing.Color.White;
-            this.DgvDatosEmpleados.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle91;
+            dataGridViewCellStyle6.BackColor = System.Drawing.Color.White;
+            this.DgvDatosEmpleados.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle6;
             this.DgvDatosEmpleados.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.DgvDatosEmpleados.AutoSizeColumnsMode = System.Windows.Forms.DataGridViewAutoSizeColumnsMode.ColumnHeader;
@@ -103,14 +82,14 @@
             this.DgvDatosEmpleados.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.DgvDatosEmpleados.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.RaisedHorizontal;
             this.DgvDatosEmpleados.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
-            dataGridViewCellStyle92.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle92.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
-            dataGridViewCellStyle92.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle92.ForeColor = System.Drawing.Color.White;
-            dataGridViewCellStyle92.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
-            dataGridViewCellStyle92.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle92.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DgvDatosEmpleados.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle92;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle7.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            dataGridViewCellStyle7.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle7.ForeColor = System.Drawing.Color.White;
+            dataGridViewCellStyle7.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            dataGridViewCellStyle7.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle7.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DgvDatosEmpleados.ColumnHeadersDefaultCellStyle = dataGridViewCellStyle7;
             this.DgvDatosEmpleados.ColumnHeadersHeight = 32;
             this.DgvDatosEmpleados.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.DisableResizing;
             this.DgvDatosEmpleados.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -120,14 +99,14 @@
             this.Descripcion,
             this.Monto,
             this.Fecha});
-            dataGridViewCellStyle93.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle93.BackColor = System.Drawing.SystemColors.Window;
-            dataGridViewCellStyle93.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle93.ForeColor = System.Drawing.SystemColors.ControlText;
-            dataGridViewCellStyle93.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
-            dataGridViewCellStyle93.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
-            dataGridViewCellStyle93.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
-            this.DgvDatosEmpleados.DefaultCellStyle = dataGridViewCellStyle93;
+            dataGridViewCellStyle8.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle8.BackColor = System.Drawing.SystemColors.Window;
+            dataGridViewCellStyle8.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle8.ForeColor = System.Drawing.SystemColors.ControlText;
+            dataGridViewCellStyle8.SelectionBackColor = System.Drawing.SystemColors.GradientInactiveCaption;
+            dataGridViewCellStyle8.SelectionForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(48)))), ((int)(((byte)(48)))), ((int)(((byte)(48)))));
+            dataGridViewCellStyle8.WrapMode = System.Windows.Forms.DataGridViewTriState.False;
+            this.DgvDatosEmpleados.DefaultCellStyle = dataGridViewCellStyle8;
             this.DgvDatosEmpleados.EnableHeadersVisualStyles = false;
             this.DgvDatosEmpleados.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
             this.DgvDatosEmpleados.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
@@ -135,19 +114,19 @@
             this.DgvDatosEmpleados.Name = "DgvDatosEmpleados";
             this.DgvDatosEmpleados.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
             this.DgvDatosEmpleados.RowHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.None;
-            dataGridViewCellStyle94.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle94.BackColor = System.Drawing.SystemColors.Control;
-            dataGridViewCellStyle94.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            dataGridViewCellStyle94.ForeColor = System.Drawing.SystemColors.WindowText;
-            dataGridViewCellStyle94.SelectionBackColor = System.Drawing.SystemColors.Highlight;
-            dataGridViewCellStyle94.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
-            dataGridViewCellStyle94.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
-            this.DgvDatosEmpleados.RowHeadersDefaultCellStyle = dataGridViewCellStyle94;
+            dataGridViewCellStyle9.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
+            dataGridViewCellStyle9.BackColor = System.Drawing.SystemColors.Control;
+            dataGridViewCellStyle9.Font = new System.Drawing.Font("Microsoft Sans Serif", 48F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            dataGridViewCellStyle9.ForeColor = System.Drawing.SystemColors.WindowText;
+            dataGridViewCellStyle9.SelectionBackColor = System.Drawing.SystemColors.Highlight;
+            dataGridViewCellStyle9.SelectionForeColor = System.Drawing.SystemColors.HighlightText;
+            dataGridViewCellStyle9.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
+            this.DgvDatosEmpleados.RowHeadersDefaultCellStyle = dataGridViewCellStyle9;
             this.DgvDatosEmpleados.RowHeadersVisible = false;
             this.DgvDatosEmpleados.RowHeadersWidth = 25;
-            dataGridViewCellStyle95.BackColor = System.Drawing.Color.White;
-            dataGridViewCellStyle95.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.DgvDatosEmpleados.RowsDefaultCellStyle = dataGridViewCellStyle95;
+            dataGridViewCellStyle10.BackColor = System.Drawing.Color.White;
+            dataGridViewCellStyle10.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.DgvDatosEmpleados.RowsDefaultCellStyle = dataGridViewCellStyle10;
             this.DgvDatosEmpleados.RowTemplate.Height = 29;
             this.DgvDatosEmpleados.SelectedIndex = -1;
             this.DgvDatosEmpleados.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
@@ -207,28 +186,72 @@
             this.Fecha.Name = "Fecha";
             this.Fecha.Width = 200;
             // 
-            // btnAgregarGastosFijos
+            // label1
             // 
-            this.btnAgregarGastosFijos.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.btnAgregarGastosFijos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
-            this.btnAgregarGastosFijos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnAgregarGastosFijos.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnAgregarGastosFijos.ForeColor = System.Drawing.Color.White;
-            this.btnAgregarGastosFijos.Image = global::Salon.Properties.Resources.icons8_más_2_matemáticas_23;
-            this.btnAgregarGastosFijos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            this.btnAgregarGastosFijos.Location = new System.Drawing.Point(941, 118);
-            this.btnAgregarGastosFijos.Name = "btnAgregarGastosFijos";
-            this.btnAgregarGastosFijos.Size = new System.Drawing.Size(83, 32);
-            this.btnAgregarGastosFijos.TabIndex = 228;
-            this.btnAgregarGastosFijos.Text = "      Nuevo";
-            this.btnAgregarGastosFijos.UseVisualStyleBackColor = false;
-            this.btnAgregarGastosFijos.Click += new System.EventHandler(this.btnAgregarGastosFijos_Click);
+            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.label1.BackColor = System.Drawing.Color.DarkGray;
+            this.label1.Location = new System.Drawing.Point(-3, 31);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(1054, 1);
+            this.label1.TabIndex = 229;
+            this.label1.Text = "label1";
+            // 
+            // drakeUIGradientPanel1
+            // 
+            this.drakeUIGradientPanel1.Controls.Add(this.drakeUITextBox2);
+            this.drakeUIGradientPanel1.Controls.Add(this.Closemenu);
+            this.drakeUIGradientPanel1.FillColor = System.Drawing.Color.White;
+            this.drakeUIGradientPanel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.drakeUIGradientPanel1.Location = new System.Drawing.Point(22, 118);
+            this.drakeUIGradientPanel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUIGradientPanel1.Name = "drakeUIGradientPanel1";
+            this.drakeUIGradientPanel1.RectColor = System.Drawing.Color.Silver;
+            this.drakeUIGradientPanel1.RectDisableColor = System.Drawing.Color.White;
+            this.drakeUIGradientPanel1.Size = new System.Drawing.Size(275, 32);
+            this.drakeUIGradientPanel1.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUIGradientPanel1.TabIndex = 231;
+            this.drakeUIGradientPanel1.Text = null;
+            // 
+            // drakeUITextBox2
+            // 
+            this.drakeUITextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.drakeUITextBox2.FillColor = System.Drawing.Color.White;
+            this.drakeUITextBox2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.drakeUITextBox2.Location = new System.Drawing.Point(46, 3);
+            this.drakeUITextBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUITextBox2.Maximum = 2147483647D;
+            this.drakeUITextBox2.Minimum = -2147483648D;
+            this.drakeUITextBox2.Name = "drakeUITextBox2";
+            this.drakeUITextBox2.Padding = new System.Windows.Forms.Padding(5);
+            this.drakeUITextBox2.RectColor = System.Drawing.Color.White;
+            this.drakeUITextBox2.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
+            this.drakeUITextBox2.Size = new System.Drawing.Size(225, 27);
+            this.drakeUITextBox2.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUITextBox2.TabIndex = 0;
+            // 
+            // btnVisualizar
+            // 
+            this.btnVisualizar.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.btnVisualizar.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
+            this.btnVisualizar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnVisualizar.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnVisualizar.ForeColor = System.Drawing.Color.White;
+            this.btnVisualizar.Image = global::Salon.Properties.Resources.icons8_más_2_matemáticas_23;
+            this.btnVisualizar.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnVisualizar.Location = new System.Drawing.Point(925, 116);
+            this.btnVisualizar.Name = "btnVisualizar";
+            this.btnVisualizar.Size = new System.Drawing.Size(99, 32);
+            this.btnVisualizar.TabIndex = 233;
+            this.btnVisualizar.Text = "      Visualizar";
+            this.btnVisualizar.UseVisualStyleBackColor = false;
+            this.btnVisualizar.Click += new System.EventHandler(this.btnVisualizar_Click);
             // 
             // Closemenu
             // 
             this.Closemenu.BackColor = System.Drawing.Color.White;
             this.Closemenu.Image = global::Salon.Properties.Resources.icons8_búsqueda_22;
-            this.Closemenu.Location = new System.Drawing.Point(10, 1);
+            this.Closemenu.Location = new System.Drawing.Point(17, 1);
             this.Closemenu.Name = "Closemenu";
             this.Closemenu.Size = new System.Drawing.Size(26, 30);
             this.Closemenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
@@ -238,65 +261,38 @@
             // pictureBox1
             // 
             this.pictureBox1.Image = global::Salon.Properties.Resources.gastoFijoNegro;
-            this.pictureBox1.Location = new System.Drawing.Point(11, 3);
+            this.pictureBox1.Location = new System.Drawing.Point(11, 2);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(23, 25);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
             this.pictureBox1.TabIndex = 223;
             this.pictureBox1.TabStop = false;
             // 
-            // label1
+            // btnGenerarPeriodos
             // 
-            this.label1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Left) 
-            | System.Windows.Forms.AnchorStyles.Right)));
-            this.label1.BackColor = System.Drawing.Color.DarkGray;
-            this.label1.Location = new System.Drawing.Point(-3, 32);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(1054, 1);
-            this.label1.TabIndex = 229;
-            this.label1.Text = "label1";
-            // 
-            // drakeUIGradientPanel1
-            // 
-            this.drakeUIGradientPanel1.Controls.Add(this.textBox1);
-            this.drakeUIGradientPanel1.FillColor = System.Drawing.Color.White;
-            this.drakeUIGradientPanel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.drakeUIGradientPanel1.Location = new System.Drawing.Point(22, 114);
-            this.drakeUIGradientPanel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.drakeUIGradientPanel1.Name = "drakeUIGradientPanel1";
-            this.drakeUIGradientPanel1.RectColor = System.Drawing.Color.Silver;
-            this.drakeUIGradientPanel1.RectDisableColor = System.Drawing.Color.White;
-            this.drakeUIGradientPanel1.Size = new System.Drawing.Size(296, 37);
-            this.drakeUIGradientPanel1.Style = DrakeUI.Framework.UIStyle.Custom;
-            this.drakeUIGradientPanel1.TabIndex = 231;
-            // 
-            // textBox1
-            // 
-            this.textBox1.Location = new System.Drawing.Point(42, 6);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(239, 26);
-            this.textBox1.TabIndex = 232;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.White;
-            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.drakeUITextBox1);
-            this.panel1.Controls.Add(this.Closemenu);
-            this.panel1.Location = new System.Drawing.Point(387, 105);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(300, 34);
-            this.panel1.TabIndex = 232;
+            this.btnGenerarPeriodos.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(230)))), ((int)(((byte)(160)))), ((int)(((byte)(190)))));
+            this.btnGenerarPeriodos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnGenerarPeriodos.Font = new System.Drawing.Font("Segoe UI", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnGenerarPeriodos.ForeColor = System.Drawing.Color.White;
+            this.btnGenerarPeriodos.Image = global::Salon.Properties.Resources.calendario;
+            this.btnGenerarPeriodos.ImageAlign = System.Drawing.ContentAlignment.MiddleLeft;
+            this.btnGenerarPeriodos.Location = new System.Drawing.Point(23, 59);
+            this.btnGenerarPeriodos.Name = "btnGenerarPeriodos";
+            this.btnGenerarPeriodos.Size = new System.Drawing.Size(139, 32);
+            this.btnGenerarPeriodos.TabIndex = 236;
+            this.btnGenerarPeriodos.Text = "      Generar periodos";
+            this.btnGenerarPeriodos.UseVisualStyleBackColor = false;
+            this.btnGenerarPeriodos.Click += new System.EventHandler(this.btnGenerarPeriodos_Click);
             // 
             // GastoFijo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1048, 556);
-            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.btnGenerarPeriodos);
+            this.Controls.Add(this.btnVisualizar);
             this.Controls.Add(this.drakeUIGradientPanel1);
             this.Controls.Add(this.label1);
-            this.Controls.Add(this.btnAgregarGastosFijos);
             this.Controls.Add(this.DgvDatosEmpleados);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.pictureBox1);
@@ -304,11 +300,9 @@
             this.Name = "GastoFijo";
             this.Text = "GastoFijo";
             ((System.ComponentModel.ISupportInitialize)(this.DgvDatosEmpleados)).EndInit();
+            this.drakeUIGradientPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
-            this.drakeUIGradientPanel1.ResumeLayout(false);
-            this.drakeUIGradientPanel1.PerformLayout();
-            this.panel1.ResumeLayout(false);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -319,9 +313,7 @@
         private System.Windows.Forms.PictureBox pictureBox1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.PictureBox Closemenu;
-        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox1;
         private DrakeUI.Framework.DrakeUIDataGridView DgvDatosEmpleados;
-        private System.Windows.Forms.Button btnAgregarGastosFijos;
         private System.Windows.Forms.DataGridViewTextBoxColumn Edit;
         private System.Windows.Forms.DataGridViewTextBoxColumn ID_Empleado;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
@@ -330,7 +322,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Fecha;
         private System.Windows.Forms.Label label1;
         private DrakeUI.Framework.DrakeUIGradientPanel drakeUIGradientPanel1;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.Panel panel1;
+        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox2;
+        private System.Windows.Forms.Button btnVisualizar;
+        private System.Windows.Forms.Button btnGenerarPeriodos;
     }
 }

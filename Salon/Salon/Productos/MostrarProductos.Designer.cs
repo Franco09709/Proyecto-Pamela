@@ -36,7 +36,6 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             this.label9 = new System.Windows.Forms.Label();
             this.label8 = new System.Windows.Forms.Label();
-            this.Closeclient = new System.Windows.Forms.PictureBox();
             this.DgvDatosClientes = new DrakeUI.Framework.DrakeUIDataGridView();
             this.ID_Empleado = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Nombre = new System.Windows.Forms.DataGridViewTextBoxColumn();
@@ -45,11 +44,14 @@
             this.Sexo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Estado = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Puesto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.drakeUIGradientPanel1 = new DrakeUI.Framework.DrakeUIGradientPanel();
+            this.drakeUITextBox2 = new DrakeUI.Framework.DrakeUITextBox();
             this.Closemenu = new System.Windows.Forms.PictureBox();
-            this.drakeUITextBox1 = new DrakeUI.Framework.DrakeUITextBox();
-            ((System.ComponentModel.ISupportInitialize)(this.Closeclient)).BeginInit();
+            this.Closeproducto = new System.Windows.Forms.PictureBox();
             ((System.ComponentModel.ISupportInitialize)(this.DgvDatosClientes)).BeginInit();
+            this.drakeUIGradientPanel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Closeproducto)).BeginInit();
             this.SuspendLayout();
             // 
             // label9
@@ -58,7 +60,7 @@
             this.label9.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
             this.label9.Font = new System.Drawing.Font("Segoe UI", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label9.ForeColor = System.Drawing.Color.White;
-            this.label9.Location = new System.Drawing.Point(12, 12);
+            this.label9.Location = new System.Drawing.Point(35, 12);
             this.label9.Name = "label9";
             this.label9.Size = new System.Drawing.Size(64, 17);
             this.label9.TabIndex = 223;
@@ -75,19 +77,6 @@
             this.label8.Size = new System.Drawing.Size(870, 43);
             this.label8.TabIndex = 222;
             this.label8.TextAlign = System.Drawing.ContentAlignment.MiddleLeft;
-            // 
-            // Closeclient
-            // 
-            this.Closeclient.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.Closeclient.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
-            this.Closeclient.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
-            this.Closeclient.Location = new System.Drawing.Point(830, 9);
-            this.Closeclient.Name = "Closeclient";
-            this.Closeclient.Size = new System.Drawing.Size(28, 24);
-            this.Closeclient.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.Closeclient.TabIndex = 224;
-            this.Closeclient.TabStop = false;
-            this.Closeclient.Click += new System.EventHandler(this.Closeclient_Click);
             // 
             // DgvDatosClientes
             // 
@@ -106,7 +95,7 @@
             this.DgvDatosClientes.CellBorderStyle = System.Windows.Forms.DataGridViewCellBorderStyle.RaisedHorizontal;
             this.DgvDatosClientes.ColumnHeadersBorderStyle = System.Windows.Forms.DataGridViewHeaderBorderStyle.Single;
             dataGridViewCellStyle2.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle2.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
+            dataGridViewCellStyle2.BackColor = System.Drawing.Color.DarkGray;
             dataGridViewCellStyle2.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle2.ForeColor = System.Drawing.Color.White;
             dataGridViewCellStyle2.SelectionBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(100)))), ((int)(((byte)(100)))));
@@ -133,7 +122,7 @@
             this.DgvDatosClientes.DefaultCellStyle = dataGridViewCellStyle4;
             this.DgvDatosClientes.EnableHeadersVisualStyles = false;
             this.DgvDatosClientes.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
-            this.DgvDatosClientes.GridColor = System.Drawing.Color.FromArgb(((int)(((byte)(80)))), ((int)(((byte)(80)))), ((int)(((byte)(80)))));
+            this.DgvDatosClientes.GridColor = System.Drawing.Color.Silver;
             this.DgvDatosClientes.Location = new System.Drawing.Point(21, 150);
             this.DgvDatosClientes.Name = "DgvDatosClientes";
             this.DgvDatosClientes.RectColor = System.Drawing.Color.FromArgb(((int)(((byte)(224)))), ((int)(((byte)(224)))), ((int)(((byte)(224)))));
@@ -155,7 +144,7 @@
             this.DgvDatosClientes.SelectedIndex = -1;
             this.DgvDatosClientes.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
             this.DgvDatosClientes.ShowRect = false;
-            this.DgvDatosClientes.Size = new System.Drawing.Size(849, 339);
+            this.DgvDatosClientes.Size = new System.Drawing.Size(828, 339);
             this.DgvDatosClientes.StripeOddColor = System.Drawing.Color.White;
             this.DgvDatosClientes.Style = DrakeUI.Framework.UIStyle.Custom;
             this.DgvDatosClientes.StyleCustomMode = true;
@@ -218,54 +207,82 @@
             this.Puesto.Name = "Puesto";
             this.Puesto.Width = 120;
             // 
+            // drakeUIGradientPanel1
+            // 
+            this.drakeUIGradientPanel1.Controls.Add(this.drakeUITextBox2);
+            this.drakeUIGradientPanel1.Controls.Add(this.Closemenu);
+            this.drakeUIGradientPanel1.FillColor = System.Drawing.Color.White;
+            this.drakeUIGradientPanel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F);
+            this.drakeUIGradientPanel1.Location = new System.Drawing.Point(21, 101);
+            this.drakeUIGradientPanel1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUIGradientPanel1.Name = "drakeUIGradientPanel1";
+            this.drakeUIGradientPanel1.RectColor = System.Drawing.Color.Silver;
+            this.drakeUIGradientPanel1.RectDisableColor = System.Drawing.Color.White;
+            this.drakeUIGradientPanel1.Size = new System.Drawing.Size(275, 32);
+            this.drakeUIGradientPanel1.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUIGradientPanel1.TabIndex = 233;
+            this.drakeUIGradientPanel1.Text = null;
+            // 
+            // drakeUITextBox2
+            // 
+            this.drakeUITextBox2.Cursor = System.Windows.Forms.Cursors.IBeam;
+            this.drakeUITextBox2.FillColor = System.Drawing.Color.White;
+            this.drakeUITextBox2.Font = new System.Drawing.Font("Segoe UI", 11.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.drakeUITextBox2.Location = new System.Drawing.Point(46, 3);
+            this.drakeUITextBox2.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
+            this.drakeUITextBox2.Maximum = 2147483647D;
+            this.drakeUITextBox2.Minimum = -2147483648D;
+            this.drakeUITextBox2.Name = "drakeUITextBox2";
+            this.drakeUITextBox2.Padding = new System.Windows.Forms.Padding(5);
+            this.drakeUITextBox2.RectColor = System.Drawing.Color.White;
+            this.drakeUITextBox2.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
+            this.drakeUITextBox2.Size = new System.Drawing.Size(225, 27);
+            this.drakeUITextBox2.Style = DrakeUI.Framework.UIStyle.Custom;
+            this.drakeUITextBox2.TabIndex = 0;
+            // 
             // Closemenu
             // 
-            this.Closemenu.BackColor = System.Drawing.SystemColors.Control;
-            this.Closemenu.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.Closemenu.BackColor = System.Drawing.Color.White;
             this.Closemenu.Image = global::Salon.Properties.Resources.icons8_búsqueda_22;
-            this.Closemenu.Location = new System.Drawing.Point(21, 102);
+            this.Closemenu.Location = new System.Drawing.Point(17, 1);
             this.Closemenu.Name = "Closemenu";
-            this.Closemenu.Size = new System.Drawing.Size(35, 29);
+            this.Closemenu.Size = new System.Drawing.Size(26, 30);
             this.Closemenu.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.Closemenu.TabIndex = 227;
+            this.Closemenu.TabIndex = 225;
             this.Closemenu.TabStop = false;
             // 
-            // drakeUITextBox1
+            // Closeproducto
             // 
-            this.drakeUITextBox1.Cursor = System.Windows.Forms.Cursors.IBeam;
-            this.drakeUITextBox1.FillColor = System.Drawing.Color.White;
-            this.drakeUITextBox1.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.drakeUITextBox1.Location = new System.Drawing.Point(56, 102);
-            this.drakeUITextBox1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
-            this.drakeUITextBox1.Maximum = 2147483647D;
-            this.drakeUITextBox1.Minimum = -2147483648D;
-            this.drakeUITextBox1.Name = "drakeUITextBox1";
-            this.drakeUITextBox1.Padding = new System.Windows.Forms.Padding(5);
-            this.drakeUITextBox1.RectColor = System.Drawing.Color.Silver;
-            this.drakeUITextBox1.RectDisableColor = System.Drawing.Color.FromArgb(((int)(((byte)(227)))), ((int)(((byte)(242)))), ((int)(((byte)(253)))));
-            this.drakeUITextBox1.Size = new System.Drawing.Size(228, 29);
-            this.drakeUITextBox1.Style = DrakeUI.Framework.UIStyle.Custom;
-            this.drakeUITextBox1.TabIndex = 226;
+            this.Closeproducto.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.Closeproducto.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
+            this.Closeproducto.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
+            this.Closeproducto.Location = new System.Drawing.Point(830, 9);
+            this.Closeproducto.Name = "Closeproducto";
+            this.Closeproducto.Size = new System.Drawing.Size(28, 24);
+            this.Closeproducto.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.Closeproducto.TabIndex = 224;
+            this.Closeproducto.TabStop = false;
+            this.Closeproducto.Click += new System.EventHandler(this.Closeclient_Click);
             // 
-            // ProductoFa
+            // MostrarProductos
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(870, 537);
-            this.Controls.Add(this.Closemenu);
-            this.Controls.Add(this.drakeUITextBox1);
+            this.Controls.Add(this.drakeUIGradientPanel1);
             this.Controls.Add(this.DgvDatosClientes);
-            this.Controls.Add(this.Closeclient);
+            this.Controls.Add(this.Closeproducto);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
-            this.Name = "ProductoFa";
+            this.Name = "MostrarProductos";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "ClienteFa";
             this.Load += new System.EventHandler(this.ClienteFa_Load);
-            ((System.ComponentModel.ISupportInitialize)(this.Closeclient)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.DgvDatosClientes)).EndInit();
+            this.drakeUIGradientPanel1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.Closemenu)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.Closeproducto)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -273,12 +290,10 @@
 
         #endregion
 
-        private System.Windows.Forms.PictureBox Closeclient;
+        private System.Windows.Forms.PictureBox Closeproducto;
         private System.Windows.Forms.Label label9;
         private System.Windows.Forms.Label label8;
         private DrakeUI.Framework.DrakeUIDataGridView DgvDatosClientes;
-        private System.Windows.Forms.PictureBox Closemenu;
-        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox1;
         private System.Windows.Forms.DataGridViewTextBoxColumn ID_Empleado;
         private System.Windows.Forms.DataGridViewTextBoxColumn Nombre;
         private System.Windows.Forms.DataGridViewTextBoxColumn Apellido;
@@ -286,5 +301,8 @@
         private System.Windows.Forms.DataGridViewTextBoxColumn Sexo;
         private System.Windows.Forms.DataGridViewTextBoxColumn Estado;
         private System.Windows.Forms.DataGridViewTextBoxColumn Puesto;
+        private DrakeUI.Framework.DrakeUIGradientPanel drakeUIGradientPanel1;
+        private DrakeUI.Framework.DrakeUITextBox drakeUITextBox2;
+        private System.Windows.Forms.PictureBox Closemenu;
     }
 }

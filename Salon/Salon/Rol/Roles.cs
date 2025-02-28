@@ -23,5 +23,10 @@ namespace Salon.Rol
             AñadirRol añadirRol = new AñadirRol();
             añadirRol.ShowDialog();
         }
+
+        private void Roles_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

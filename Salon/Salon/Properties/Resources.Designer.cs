@@ -63,6 +63,36 @@ namespace Salon.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap calendario {
+            get {
+                object obj = ResourceManager.GetObject("calendario", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap copy_10532481 {
+            get {
+                object obj = ResourceManager.GetObject("copy_10532481", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap copy_5757665 {
+            get {
+                object obj = ResourceManager.GetObject("copy_5757665", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap front_view_woman_getting_her_manicure_done_at_the_salon_scaled_1 {
             get {
                 object obj = ResourceManager.GetObject("front-view-woman-getting-her-manicure-done-at-the-salon-scaled-1", resourceCulture);
@@ -103,9 +133,39 @@ namespace Salon.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap icons8_bolsa_de_dinero_22 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-bolsa-de-dinero-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_bolsa_de_dinero_22__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-bolsa-de-dinero-22 (1)", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap icons8_búsqueda_22 {
             get {
                 object obj = ResourceManager.GetObject("icons8-búsqueda-22", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_calculadora_21 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-calculadora-21", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -126,6 +186,16 @@ namespace Salon.Properties {
         internal static System.Drawing.Bitmap icons8_clientes_23 {
             get {
                 object obj = ResourceManager.GetObject("icons8-clientes-23", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_cuadrado_23 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-cuadrado-23", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -166,6 +236,16 @@ namespace Salon.Properties {
         internal static System.Drawing.Bitmap icons8_factura_23 {
             get {
                 object obj = ResourceManager.GetObject("icons8-factura-23", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_guardar_21__1_ {
+            get {
+                object obj = ResourceManager.GetObject("icons8-guardar-21 (1)", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -226,6 +306,16 @@ namespace Salon.Properties {
         internal static System.Drawing.Bitmap icons8_más_2_matemáticas_23 {
             get {
                 object obj = ResourceManager.GetObject("icons8-más-2-matemáticas-23", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap icons8_minimizar_23 {
+            get {
+                object obj = ResourceManager.GetObject("icons8-minimizar-23", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -363,9 +453,69 @@ namespace Salon.Properties {
         /// <summary>
         ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap producto {
+            get {
+                object obj = ResourceManager.GetObject("producto", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap productoboton {
+            get {
+                object obj = ResourceManager.GetObject("productoboton", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap productonegro {
+            get {
+                object obj = ResourceManager.GetObject("productonegro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap seguridad {
             get {
                 object obj = ResourceManager.GetObject("seguridad", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap stop_button_3877243 {
+            get {
+                object obj = ResourceManager.GetObject("stop-button_3877243", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap Usuariosnegro {
+            get {
+                object obj = ResourceManager.GetObject("Usuariosnegro", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap video_14159459 {
+            get {
+                object obj = ResourceManager.GetObject("video_14159459", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

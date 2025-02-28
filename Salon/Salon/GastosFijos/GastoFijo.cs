@@ -17,10 +17,17 @@ namespace Salon.GastosFijos
             InitializeComponent();
         }
 
-        private void btnAgregarGastosFijos_Click(object sender, EventArgs e)
+ 
+        private void btnVisualizar_Click(object sender, EventArgs e)
         {
-            AñadirGastoFijo añadirGastoFijo = new AñadirGastoFijo();
-            añadirGastoFijo.ShowDialog();
+            VisualizarGastosfijo visualizarGastosfijo = new VisualizarGastosfijo();
+            visualizarGastosfijo.ShowDialog();
+        }
+
+        private void btnGenerarPeriodos_Click(object sender, EventArgs e)
+        {
+            GenerarPeriodosGastosfijos generarPeriodosGastosfijos= new GenerarPeriodosGastosfijos();
+            generarPeriodosGastosfijos.ShowDialog();
         }
     }
 }

@@ -1,4 +1,5 @@
-﻿using Salon.Servicios;
+﻿using Salon.Nomina;
+using Salon.Servicios;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -44,12 +45,19 @@ namespace Salon
 
         private void Menu_Load(object sender, EventArgs e)
         {
+            // Codigo para que la ventana se ajuste dinamicamente a cualquier pantalla
 
+
+            Screen pantallaActual = Screen.FromControl(this);
+            Rectangle resolucion = pantallaActual.WorkingArea;
+
+            // Definir el tamaño máximo del formulario según la resolución de la pantalla actual
+            this.MaximumSize = new Size(resolucion.Width, resolucion.Height);
         }
 
         private void btnEmpleado_Click(object sender, EventArgs e)
         {
-            Usuarios empleados = new Usuarios();
+            Empleados.Empleado empleados= new Empleados.Empleado();
             AbrirFormulario(empleados);
         }
 
@@ -66,7 +74,7 @@ namespace Salon
 
         private void btnClientes_Click(object sender, EventArgs e)
         {
-            Clientes.Clientes clientes= new Clientes.Clientes();
+            Clientes.Productos clientes= new Clientes.Productos();
             AbrirFormulario(clientes);
         }
 
@@ -87,6 +95,41 @@ namespace Salon
         {
             GastosFijos.GastoFijo GastoFijo = new GastosFijos.GastoFijo();
             AbrirFormulario(GastoFijo);
+        }
+
+        private void btnNomina_Click(object sender, EventArgs e)
+        {   
+            Nomina.Nomina nomina = new Nomina.Nomina();
+
+            AbrirFormulario(nomina);
+        }
+
+        private void Maxmenu_Click(object sender, EventArgs e)
+        {
+            if (this.WindowState == FormWindowState.Normal)
+            {
+                this.WindowState = FormWindowState.Maximized;
+                Maxmenu.Image = Properties.Resources.copy_10532481;
+            }
+            else
+            {
+                this.WindowState= FormWindowState.Normal;
+                Maxmenu.Image = Properties.Resources.icons8_cuadrado_23;
+            }
+
+
+            
+        }
+
+        private void Minmenu_Click(object sender, EventArgs e)
+        {
+            this.WindowState=FormWindowState.Minimized;
+        }
+
+        private void btnUsuarios_Click(object sender, EventArgs e)
+        {
+            Usuarios.Usuarios usuarios = new Usuarios.Usuarios();
+            AbrirFormulario(usuarios);
         }
     }
 }

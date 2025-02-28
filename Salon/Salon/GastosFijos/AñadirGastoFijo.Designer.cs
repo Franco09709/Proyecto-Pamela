@@ -38,9 +38,9 @@
             this.drakeUITextBox3 = new DrakeUI.Framework.DrakeUITextBox();
             this.label4 = new System.Windows.Forms.Label();
             this.label11 = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
-            this.CloseagregarGastoFijo = new System.Windows.Forms.PictureBox();
             this.dateDocllam = new System.Windows.Forms.DateTimePicker();
+            this.CloseagregarGastoFijo = new System.Windows.Forms.PictureBox();
+            this.button1 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.CloseagregarGastoFijo)).BeginInit();
             this.SuspendLayout();
             // 
@@ -179,6 +179,30 @@
             this.label11.Size = new System.Drawing.Size(463, 1);
             this.label11.TabIndex = 242;
             // 
+            // dateDocllam
+            // 
+            this.dateDocllam.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.dateDocllam.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.dateDocllam.Format = System.Windows.Forms.DateTimePickerFormat.Short;
+            this.dateDocllam.Location = new System.Drawing.Point(27, 303);
+            this.dateDocllam.Name = "dateDocllam";
+            this.dateDocllam.Size = new System.Drawing.Size(288, 29);
+            this.dateDocllam.TabIndex = 245;
+            this.dateDocllam.Value = new System.DateTime(2023, 6, 1, 0, 0, 0, 0);
+            // 
+            // CloseagregarGastoFijo
+            // 
+            this.CloseagregarGastoFijo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
+            this.CloseagregarGastoFijo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
+            this.CloseagregarGastoFijo.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
+            this.CloseagregarGastoFijo.Location = new System.Drawing.Point(420, 8);
+            this.CloseagregarGastoFijo.Name = "CloseagregarGastoFijo";
+            this.CloseagregarGastoFijo.Size = new System.Drawing.Size(28, 24);
+            this.CloseagregarGastoFijo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
+            this.CloseagregarGastoFijo.TabIndex = 244;
+            this.CloseagregarGastoFijo.TabStop = false;
+            this.CloseagregarGastoFijo.Click += new System.EventHandler(this.CloseagregarGastoFijo_Click);
+            // 
             // button1
             // 
             this.button1.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
@@ -194,30 +218,6 @@
             this.button1.TabIndex = 243;
             this.button1.Text = "      Guardar";
             this.button1.UseVisualStyleBackColor = false;
-            // 
-            // CloseagregarGastoFijo
-            // 
-            this.CloseagregarGastoFijo.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.CloseagregarGastoFijo.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(70)))), ((int)(((byte)(70)))), ((int)(((byte)(70)))));
-            this.CloseagregarGastoFijo.Image = global::Salon.Properties.Resources.icons8_multiplicar_23__2_;
-            this.CloseagregarGastoFijo.Location = new System.Drawing.Point(420, 8);
-            this.CloseagregarGastoFijo.Name = "CloseagregarGastoFijo";
-            this.CloseagregarGastoFijo.Size = new System.Drawing.Size(28, 24);
-            this.CloseagregarGastoFijo.SizeMode = System.Windows.Forms.PictureBoxSizeMode.CenterImage;
-            this.CloseagregarGastoFijo.TabIndex = 244;
-            this.CloseagregarGastoFijo.TabStop = false;
-            this.CloseagregarGastoFijo.Click += new System.EventHandler(this.CloseagregarGastoFijo_Click);
-            // 
-            // dateDocllam
-            // 
-            this.dateDocllam.Anchor = ((System.Windows.Forms.AnchorStyles)((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Right)));
-            this.dateDocllam.Font = new System.Drawing.Font("Segoe UI", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.dateDocllam.Format = System.Windows.Forms.DateTimePickerFormat.Short;
-            this.dateDocllam.Location = new System.Drawing.Point(27, 303);
-            this.dateDocllam.Name = "dateDocllam";
-            this.dateDocllam.Size = new System.Drawing.Size(288, 29);
-            this.dateDocllam.TabIndex = 245;
-            this.dateDocllam.Value = new System.DateTime(2023, 6, 1, 0, 0, 0, 0);
             // 
             // AñadirGastoFijo
             // 
@@ -241,6 +241,7 @@
             this.Name = "AñadirGastoFijo";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "AñadirGastoFijo";
+            this.Load += new System.EventHandler(this.AñadirGastoFijo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.CloseagregarGastoFijo)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();

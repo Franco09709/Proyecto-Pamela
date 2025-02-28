@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Salon.Nomina;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -8,7 +9,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace Salon
+namespace Salon.Usuarios
 {
     public partial class AñadirUsuario : Form
     {
@@ -17,19 +18,15 @@ namespace Salon
             InitializeComponent();
         }
 
-        private void Closeagregusuario_Click(object sender, EventArgs e)
+        private void Closemenu_Click(object sender, EventArgs e)
+        {
+            ConsultarEmp consultarEmp = new ConsultarEmp();
+            consultarEmp.ShowDialog();
+        }
+
+        private void Closeagregarusuario_Click(object sender, EventArgs e)
         {
             this.Close();
-        }
-
-        private void label13_Click(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label12_Click(object sender, EventArgs e)
-        {
-
         }
 
         private void AñadirUsuario_Load(object sender, EventArgs e)
